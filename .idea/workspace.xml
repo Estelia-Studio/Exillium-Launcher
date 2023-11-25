@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ad0ff107-44ea-4980-8fe7-bb1655f5173a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/ExilliumGROUP/launcher/Frame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/ExilliumGROUP/launcher/Launcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/ExilliumGROUP/launcher/Panel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/ExilliumGROUP/launcher/utils/MicrosoftThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/launcher_exi_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/launcher_exi_close_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/launcher_exi_close_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/launcher_exi_connect_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/launcher_exi_connect_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/launcher_exi_discord.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/launcher_exi_launch_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/launcher_exi_launch_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/launcher_exi_mainmenu_back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/launcher_exi_mainmenu_back_final.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/launcher_exi_not_connected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/launcher_exi_not_update.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/launcher_exi_settings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/launcher_exi_tiktok.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/launcher_exi_twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/launcher_exi_update_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/launcher_exi_update_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/launcher_exi_web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/logo.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2YPBwIA0os7IsqKq2jtkQQtLQab" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Exillium-Launcher/src/main/resources",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Exillium-Launcher\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Exillium-Launcher\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Frame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.ExilliumGROUP.launcher.Frame" />
+      <module name="Exillium-Launcher" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.ExilliumGROUP.launcher.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Frame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad0ff107-44ea-4980-8fe7-bb1655f5173a" name="Changes" comment="" />
+      <created>1700417572447</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700417572447</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
